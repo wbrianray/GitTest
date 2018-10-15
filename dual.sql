@@ -1,0 +1,2 @@
+-- dual
+select * from dual;
